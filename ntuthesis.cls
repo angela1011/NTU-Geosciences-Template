@@ -3,10 +3,10 @@
 % National Taiwan University (NTU) Thesis Template
 % --------------------------------------------------
 % Version       : 1.0
-% Author        : Hsins <hsinspeng@gmail.com>
-% Repository    : https://github.com/Hsins/NTU-Thesis
+% Author        : Hsins <angela.891011@gmail.com>
+% Repository    : https://github.com/angela1011/NTU-Geosciences-Template
 % Document      : https://hsins.github.io/NTU-Thesis/
-% Last Updated  : 2020.05.01
+% Last Updated  : 2024.05.28
 
 % --------------------------------------------------
 % 01 類別宣告（Class Declaration）
@@ -294,17 +294,17 @@
     name    = university@en,
   },
   college = {
-    default = {工學院},
+    default = {理學院},
   },
   college* = {
-    default = {College of Engineering},
+    default = {College of Science},
     name    = college@en,
   },
   institute = {
-    default = {工業工程學研究所},
+    default = {地質科學研究所},
   },
   institute* = {
-    default = {Institute of Industrial Engineering},
+    default = {Department of Geosciences},
     name    = institute@en,
   },
   title = {
